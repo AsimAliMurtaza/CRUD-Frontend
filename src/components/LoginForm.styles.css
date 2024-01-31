@@ -1,0 +1,41 @@
+.form-container-login {
+    display: flex;
+    width: 100%;
+    max-width:270px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+  }
+  
+  .button-icon {
+    margin-right: 10px;
+    display: flex;
+  }
+  
+  .form-container-login form label {
+    margin-bottom: 10px;
+  }
+  
+  .form-container-login form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .form-container-login form button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .form-container-login form button:hover {
+    background-color: #0056b3;
+  }
+  
